@@ -1,7 +1,9 @@
 ## Contrato de Prestação de Serviços para Desenvolvedores WEB (CPSDW)
 Um documento base com os principais pontos abordados no fechamento de um contrato.
 
-Comentários sobre o documento inicial estão no [Google Drive](https://docs.google.com/document/d/1-hTQ3MiEnm3y8Zj-rxaKUMDlvC2Hf74RsiblvjAfxGQ/edit?usp=sharing)
+Comentários sobre o documento inicial estão no [Google Drive](https://docs.google.com/document/d/1-hTQ3MiEnm3y8Zj-rxaKUMDlvC2Hf74RsiblvjAfxGQ/edit?usp=sharing).
+
+Grupo de discussão no [Facebook](https://www.facebook.com/groups/466219426885347/).
 
 ## Lista de Tarefas
 
